@@ -14,7 +14,7 @@ https://github.com/anuraghazra/github-readme-stats-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeWilquem&show_icons=true&theme=radical)  
 
 
-**`Sou, Felipe Wilquem, estudante de Front End.`**
+**`Sou, Felipe, estudante de Front End.`**
 
 
 **```Do Programa Ford Enter, uma parceria desenvolvida entre a Ford Motor Company Brasil, Ford Fund e Senai-SP, para formação de Desenvolvedor Front End.```**
