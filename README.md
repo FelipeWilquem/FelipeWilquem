@@ -17,7 +17,7 @@ https://github.com/anuraghazra/github-readme-stats-->
 **`Sou, Felipe, estudante de Front End.`**
 
 
-**```Do Programa Ford Enter, uma parceria desenvolvida entre a Ford Motor Company Brasil, Ford Fund e Senai-SP, para formação de Desenvolvedor Front End.```**
+**```Aluno Do Programa Ford Enter, uma parceria desenvolvida entre a Ford Motor Company Brasil, Ford Fund e Senai-SP, para formação de Desenvolvedores Front End.```**
 
 <img height= "150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />       <img height= "120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />      <img height= "120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />       <img height= "120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />   <img height= "120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" />          <img height= "120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
           
